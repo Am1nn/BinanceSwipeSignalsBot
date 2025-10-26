@@ -1,0 +1,15 @@
+{
+  "symbol": "BTCUSDT",
+  "notional_usdt": 100,
+  "leverage": 10,
+  "emaFast": 1,
+  "emaSlow": 24,
+  "confirmPct": 0.001,
+  "tpPct": 0.003,
+  "slPct": 0.001,
+  "reentryPct": 0.0005,
+  "timeframe": "1m",
+  "dryRun": false,
+  "apiKey": "S1oUOR7pR5CWK6IvCxDXzzckTxdSv1BOnDaGbldYsRCyeLGPQKWfJNH1OnuUJJ7y",
+  "apiSecret": "JNdscAgcARxJIUSUrIAlRXGgDG1vd02reoS8l9hMYnhPvd3AemvViR78rTSVZk6x"
+}
